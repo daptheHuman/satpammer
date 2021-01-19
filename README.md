@@ -1,0 +1,2 @@
+# satpammer
+Simple python spammer
